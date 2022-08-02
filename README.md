@@ -1,2 +1,2 @@
 # PortfolioWeb
-Repositorio front end para portfolio web #ArgentinaPrograma
+Repositorio front end Angular, ts, css y json
