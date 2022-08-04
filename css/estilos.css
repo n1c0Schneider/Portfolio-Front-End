@@ -1,0 +1,25 @@
+h1  {
+     text-align: center;
+     margin: 5%;
+     color: rgb(231, 237, 238);
+     background-color: blue;
+    }
+div.cuerpo { 
+    background-color: rgb(240, 240, 240);
+    margin: 5%;
+    border: 3px solid Black;
+}
+div ol {
+    color:rgb(236, 60, 60);
+    background-color: rgb(139, 236, 160);
+    }
+div ul {
+        color:rgb(236, 60, 60);
+        background-color: rgb(139, 236, 160);
+        }
+div h3 {
+    color: brown;
+    }
+div.openstreetmap {
+
+}
