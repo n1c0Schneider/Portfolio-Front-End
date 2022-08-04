@@ -1,4 +1,4 @@
-h1  {
+h1.ejemplo  {
      text-align: center;
      margin: 5%;
      color: rgb(231, 237, 238);
@@ -17,9 +17,17 @@ div ul {
         color:rgb(236, 60, 60);
         background-color: rgb(139, 236, 160);
         }
+
+
+/* css de boostrap pagina principal  */
+/* todos los comentarios los hago con el atajo ctrl + } */
+
 div h3 {
     color: brown;
     }
-div.openstreetmap {
-
+p {
+    margin: 5%;
 }
+h1  {
+    text-align: center;
+   }
